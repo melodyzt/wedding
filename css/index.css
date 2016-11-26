@@ -1,0 +1,273 @@
+*{
+		margin: 0;
+		padding: 0;
+}
+html,body{
+	height: 100%;
+}
+img{
+	display: block;
+}
+.swiper-container {
+	width: 100%;
+	height: 100%;
+}
+.swiper-slide{
+	width: 100%;
+	height: 100%;
+}
+.bj{
+ 	width: 100%;
+ 	height: 100%;
+}
+.xin{
+		width: 58%;
+		position: absolute;
+		left: 21%;
+		top: 14%;
+}
+.pic_1{
+ 	width: 62%;
+ 	position: absolute;
+ 	left: 19%;
+ 	top: 48%;
+}
+.pic_2{
+    	width: 58%;
+    	position: absolute;
+    left: 21%;
+  	top: 59%;
+    	display: block;
+}
+.man{
+ 	width: 20%;
+ 	position: absolute;
+ 	top: 72%;
+ 	left: 21%;
+}
+.women{
+  	width: 20%;
+    position: absolute;
+  	top: 72.2%;
+  	left: 57%;
+}
+.love{
+	width: 30px;
+	height: 30px; 
+	position: absolute;
+	top: 71%;
+	left: 44%;
+}
+.love1{
+	width: 100%;
+   	position: absolute;
+}
+.love2{
+	width: 85%;
+ 	position: absolute;
+ 	left:13%;
+ 	margin-top: 20%;
+}
+.next{
+  	width: 35px;
+  	height: 30px;
+  	bottom: 4%;
+  	left: 45%;
+  	position: absolute;
+  	-webkit-animation-iteration-count: infinite;
+}
+.next img{
+ 	width: 100%;
+ 	height: 15px;
+ 	position: absolute;
+}
+.next img:nth-child(2){
+		top: 10px;
+}
+.year{
+		width: 30%;
+		position: absolute;
+		left: 35%;
+		top: 3%;
+}
+.time{
+    	width: 50%;
+    	position: absolute;
+    	top: -3%;
+    	left: 25%;
+}
+.friend{
+		width: 60%;
+		position: absolute;
+		top: 15%;
+		left: 20%;
+}
+.sun{
+		width: 50%;
+		position: absolute;
+		top: 30%;
+		left: 12%;
+		transform: rotate(-18deg);
+		transform-origin: 0% 100%;
+}
+.school{
+		width: 60%;
+		position: absolute;
+		top: 48%;
+		left: 30%;
+}
+.cal{
+    	width: 23%;
+    	position: absolute;
+    	top: 70%;
+    	left: 9%;
+    	transform: rotate(-15deg);
+    	transform-origin: 0% 100%;
+}
+.book{
+    	width: 22%;
+    	position: absolute;
+	top: 58%;
+	left: 10%;
+}
+.qiu{
+	width: 20%;
+	position: absolute;
+	top: 30%;
+	right: 10%;
+	
+}
+.flower{
+		width: 100%;
+		position: absolute;
+		/*bottom: 45px;*/
+		bottom: 0;
+		left: 0;
+}
+.ten{
+		width: 40%;
+		position: absolute;
+		top: 5%;
+		left: 30%;
+}
+
+.car{
+	width: 26%;
+	position: absolute;
+	bottom: 5%;
+	left: 5%;
+}
+.text{
+	width: 70%;
+	position: absolute;
+	top: 28%;
+	left: 15%;
+}
+.box{
+	width: 24%;
+	position: absolute;
+	right: -3.5%;
+	bottom: 10%;
+}
+.cake{
+	width: 24%;
+	position: absolute;
+	right: 19%;
+	bottom: 10%;
+}
+.suger{
+	width: 12%;
+	position: absolute;
+	right: 21%;
+	bottom: 1%;	
+	z-index: 10;	
+}
+.sweet{
+	width: 100%;
+	transform: rotate(-44deg);
+	transform-origin: 0% 100%;
+
+}
+.xiong{
+	width: 36%;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
+.xin2{
+	width: 100%;
+	position: absolute;
+	top: 15%;
+}
+.bang{
+	width: 75%;
+	position: absolute;
+	top: 23%;
+	left: 12.5%;
+}
+.house{
+	width: 30%;
+	position: absolute;
+	top: 40%;
+}
+.new{
+	width: 58%;
+	position: absolute;
+	right: 7%;
+	top: 28%;
+}
+
+.text_1{
+	position: absolute;
+	width: 50%;
+	top: 15%;
+	left: 25%;
+}
+.text_2{
+	position: absolute;
+	width: 70%;
+	top: 22%;
+	left: 15%;
+}
+.text_3{
+	position: absolute;
+	width: 55%;
+	top: 28%;
+	left: 22.5%;
+}
+.text_4{
+	position: absolute;
+	width: 70%;
+	top: 34%;
+	left: 15%;
+}
+.text_5{
+	position: absolute;
+	width: 64%;
+	top: 40%;
+	left: 18%;
+}
+.text_6{
+	position: absolute;
+	width: 64%;
+	top: 47%;
+	left: 18%;
+}
+.text_7{
+	position: absolute;
+	width: 64%;
+	top: 54%;
+	left: 18%;
+}
+.text_8{
+	position: absolute;
+	width: 23%;
+	top: 59%;
+	left: 38.5%;
+}
+.text_9{
+	position: absolute;
+	width: 66%;
+	top: 64%;
+	left: 17%;
+}
